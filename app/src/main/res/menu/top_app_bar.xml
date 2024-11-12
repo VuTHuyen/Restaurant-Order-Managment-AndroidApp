@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/topToolBar1"
+        android:visible="false"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/topbar_more"
+        android:visible="false"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/topToolBar3"
+        android:visible="false"
+        app:showAsAction="always"/>
+
+    <!-- item
+        android:id="@+id/topToolBar_profile"
+        app:actionLayout="@layout/layout_user_login"
+        android:visible="false"
+        app:showAsAction="always"/>
+
+-->
+
+
+</menu>

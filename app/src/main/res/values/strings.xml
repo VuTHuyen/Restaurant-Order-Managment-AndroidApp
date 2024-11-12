@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">OrderRestaurantApp</string>
+    <string name="prompt_email">Benutzername</string>
+    <string name="prompt_password">Passwort</string>
+    <string name="action_sign_in">Anmelden</string>
+    <string name="table1">Tisch 1</string>
+    <string name="table2">Tisch 2</string>
+    <string name="table3">Tisch 3</string>
+    <string name="table4">Tisch 4</string>
+    <string name="table5">Tisch 5</string>
+    <string name="table6">Tisch 6</string>
+    <string name="table7">Tisch 7</string>
+    <string name="table8">Tisch 8</string>
+    <string name="table9">Tisch 9</string>
+    <string name="table10">Tisch 10</string>
+    <string name="table11">Tisch 11</string>
+    <string name="table12">Tisch 12</string>
+    <string name="table13">Tisch 13</string>
+    <string name="table14">Tisch 14</string>
+    <string name="table15">Tisch 15</string>
+    <string name="table16">Tisch 16</string>
+    <string name="table17">Tisch 17</string>
+    <string name="table18">Tisch 18</string>
+    <string name="table19">Tisch 19</string>
+    <string name="table20">Tisch 20</string>
+
+    <string name="table70">Tisch 70</string>
+    <string name="table71">Tisch 71</string>
+    <string name="table72">Tisch 72</string>
+    <string name="table73">Tisch 73</string>
+    <string name="table74">Tisch 74</string>
+    <string name="table75">Tisch 75</string>
+    <string name="table76">Tisch 76</string>
+    <string name="table77">Tisch 77</string>
+    <string name="table78">Tisch 78</string>
+    <string name="table79">Tisch 79</string>
+    <string name="table80">Tisch 80</string>
+
+    <string name="search">Suchen</string>
+    <string name="order_error_message">Keine Auswahl!</string>
+    <string name="forgot_login">You forgot to enter Name or Password</string>
+    <string name="error_login">Username or Password falsch</string>
+    <string name="error_bluetooth">Bluetooth is not available or not enabled</string>
+    <string name="no_printer">Kein Drücker ist ausgewählt</string>
+    <string name="data_delete_success">Bezahlung ist erfolgreich</string>
+    <string name="data_delete_failed">Bezahlung ist unerfolgreich</string>
+    <string name="data_add_success">Hinzufügung ist erfolgreich</string>
+    <string name="data_add_failed">Hinzufügung ist unerfolgreich</string>
+    <string name="order_add_no_number">Wählen die Anzahl von der Speise</string>
+    <string name="order_empty">Der Tisch ist noch leer</string>
+    <string name="remove_order_sucess">Order erfolgreich entfernt</string>
+    <string name="remove_order_fail">Order unerfolgreich entfernt</string>
+
+
+
+
+
+
+
+
+</resources>

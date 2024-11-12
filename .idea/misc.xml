@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.259" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/add-24px.xml" value="0.347" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/add_24px.xml" value="0.245" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/add___icon.xml" value="0.245" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/check-24px.xml" value="0.347" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/check___icon.xml" value="0.245" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/delete-24px.xml" value="0.245" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/delete___icon.xml" value="0.245" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/edit__icon.xml" value="0.1865" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/group-24px.xml" value="0.245" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/group___icon.xml" value="0.142" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/home-24px.xml" value="0.245" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/home___icon.xml" value="0.245" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/ic_bag_euro_money_currency_finance_payment_svgrepo_com.xml" value="0.211" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/ic_cart_add_svgrepo_com.xml" value="0.3445" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/ic_dinner_svgrepo_com.xml" value="0.2875" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/ic_dinner_svgrepo_com__1_.xml" value="0.2875" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/ic_food_menu__icon.xml" value="0.14285714285714285" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/ic_free_2_svgrepo_com.xml" value="0.2005" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/ic_free__icon.xml" value="0.1515" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/ic_free__table__icon.xml" value="0.409" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/ic_grid_view_svgrepo_com__1_.xml" value="0.2005" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/ic_lock_password_protection_safety_secure_security_svgrepo_com.xml" value="0.142" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/ic_lock_protection_safety_secure_security_shield_svgrepo_com.xml" value="0.142" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/ic_logout_24dp.xml" value="0.384" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/ic_money_euro_svgrepo_com.xml" value="0.1865" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/ic_online_payment_bank_svgrepo_com.xml" value="0.3105" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/ic_order_food__icon.xml" value="0.1515" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/ic_payment_color__icon.xml" value="0.207" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/ic_printer_svgrepo_com.xml" value="0.142" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/ic_reserved__icon.xml" value="0.1515" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/ic_reserved_svgrepo_com.xml" value="0.2005" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/ic_reserved_svgrepo_com__1_.xml" value="0.1725" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/ic_table_dinner__icon.xml" value="0.207" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/ic_wallet_wallet_svgrepo_com.xml" value="0.142" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/login___icon.xml" value="0.13" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/logout-24px.xml" value="0.347" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/menu-24px.xml" value="0.245" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/menu___icon.xml" value="0.245" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/menu_book__icon.xml" value="0.1645" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/order_approve_24px.xml" value="0.3405" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/payments__icon.xml" value="0.1645" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/print-24px.xml" value="0.245" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/print___icon.xml" value="0.245" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/receipt_long_24px.xml" value="0.3405" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/remove-24px.xml" value="0.245" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/remove___icon.xml" value="0.25" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/search-24px.xml" value="0.245" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/search___icon.xml" value="0.13" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/settings___icon.xml" value="0.245" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/shape_button_search.xml" value="0.2975" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/shape_spinner.xml" value="0.1985" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/drawable/table_view__icon.xml" value="0.1385" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/layout/activity_admin_login.xml" value="0.3828571428571429" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/layout/activity_main.xml" value="0.2857142857142857" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/layout/activity_menu.xml" value="0.1" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/layout/activity_search_menu.xml" value="0.4015625" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/layout/activity_table_manager.xml" value="0.3703125" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/layout/activity_table_order.xml" value="0.3828571428571429" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/layout/admin_login_activity.xml" value="0.3638888888888889" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/layout/fragment_payment.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/layout/fragment_print_button.xml" value="0.33489583333333334" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/layout/fragment_recycleview_menu.xml" value="0.38702928870292885" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/layout/fragment_search_menu.xml" value="0.2857142857142857" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/layout/fragment_table_manager.xml" value="0.3828571428571429" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/layout/fragment_table_order.xml" value="0.2857142857142857" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/layout/fragment_table_recycleview.xml" value="0.33171912832929784" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/layout/fragment_turnover_date.xml" value="0.3375" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/layout/list_item_drink_with_varity.xml" value="0.3828571428571429" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/layout/list_item_finance.xml" value="0.44166666666666665" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/layout/list_item_food_menu.xml" value="0.36117936117936117" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/layout/list_item_order_of_table.xml" value="0.39" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/layout/list_item_table.xml" value="0.3828571428571429" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/layout/table_manager_activity.xml" value="0.2857142857142857" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/layout/table_order.xml" value="0.29375" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/menu/contextual_action_bar.xml" value="0.44166666666666665" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/menu/menu_navigation.xml" value="0.2601851851851852" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/menu/top_app_bar.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.291" />
+        <entry key="..\:/Users/vuhuy/AndroidStudioProjects/OrderRestaurantApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.291" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

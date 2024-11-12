@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/table_dashboard"
+        android:icon="@drawable/ic_grid_view_svgrepo_com__1_"
+        android:title="Alle Tische"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/finance"
+        android:icon="@drawable/ic_bag_euro_money_currency_finance_payment_svgrepo_com"
+        android:title="Finance"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/ic_logout_24dp"
+        android:title="Logout"
+        app:showAsAction="always" />
+
+
+    <!--item
+        android:id="@+id/menu_bookmark"
+        android:icon="@drawable/dashboard___image__ic_icon_crgr"
+        android:title="@string/menuCourses"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/menu_marvin"
+        android:icon="@drawable/ic_outline_collections_bookmark_24"
+        android:title="@string/menuMarvinOnline"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_logout"
+        android:icon="@drawable/marvin___image__ic_icon_search"
+        android:title="@string/menuMarvinLocal"
+        app:showAsAction="ifRoom" />
+-->
+</menu>

@@ -1,0 +1,186 @@
+Name;Preis;Warung
+1.  Sauerscharfe Suppe;3,5;€						
+2a. Tom Khai Suppe (Tofu);4,9;€						
+2b. Tom Khai Suppe (Hähnchen);4,9;€						
+2c. Tom Khai Suppe (Garnelen);5,9;€						
+3a. Tom Yum Suppe (Tofu);4,9;€						
+3b. Tom Yum Suppe (Lachs);5,9;€						
+3c. Tom Yum Suppe (Garnelen);5,9;€						
+4a. Miso Suppe (Tofu);4,9;€						
+4b. Miso Suppe (Lachs);5,9;€						
+5. Edamame;4,9;€						
+6a. Sommerrollen (2 Stk) Tofu;5,5;€						
+6b. Sommerrollen (2 Stk) Hühnchen;5,5;€						
+6c. Sommerrollen (2 Stk) Garnelen;6;€						
+6d. Sommerrollen (2 Stk) Lachs;6,5;€						
+7. Frühlingsrollen Viernam (2 Stk);5,5;€						
+8. Frühlingsrollen Vegetarisch (6 Stk);4,5;€						
+9. Kyoza (4 Stk);5,5;€						
+10. Ha Cao (4 Stk);5,5;€						
+11. Wantan (5 Stk);5,9;€						
+12. Tempura Garnelen (3 Stk);7,9;€						
+13. Sate (2Stk);5,5;€						
+14a. Vorspeisenteller für 2 P. (Normal);15,9;€						
+14b. Vorspeisenteller für 2 P. (Veretarisch);15,9;€						
+15a. Vorspeisenteller für 3 P. (Normal);23,9;€						
+15b. Vorspeisenteller für 3 P. (Vegetarisch);23,9;€						
+16a. Mango Salat (Crispy Tofu);7,9;€						
+16b. Mango Salat (Hühnchen);7,9;€						
+16c. Mango Salat (Rindfleisch);8,9;€						
+16d. Mango Salat (Garnelen);9,9;€						
+18. Wakame Salat;4,9;€						
+19. Kim Chi;5,9;€						
+20. Oktopus Salat;17,9;€						
+21a. BuddhaBowls (Crispy Tofu);12,9;€						
+21b. BuddhaBowls (Crunchy Hühnchen);14,5;€						
+21c. BuddhaBowls (Gebackene Garnelen);14,9;€						
+21d. BuddhaBowls (Lachs);15,5;€						
+21e. BuddhaBowls (Gegrilltem Lachs);16,9;€						
+22a. Pho (Tofu);10,5;€						
+22b. Pho (Hühnchen);12,5;€						
+22c. Pho (Rindfleisch);14,5;€						
+23a. Bun (Frühlingsrollen Vietnam);11,9;€						
+23b. Bun (Gegrilltes Schwein);12,9;€						
+23c. Bun (Rindfleisch);12,9;€						
+24a. Bonsai Udon (Tofu);10,5;€						
+24b. Bonsai Udon (Gebackenes Hühnchen);10,9;€						
+24c. Bonsai Udon (Rindfleisch);13,5;€						
+24d. Bonsai Udon (Garnelen);13,7;€						
+24e. Bonsai Udon (Ente);13,9;€						
+25a. My Xao (Tofu);8,5;€						
+25b. My Xao (Gebratenes Hühnchen);8,9;€						
+25c. My Xao (Gebackenes Hühnchen);10,5;€						
+25d. My Xao (Garnelen);13,5;€						
+25e. My Xao(Ente);13,9;€						
+26a. Com Rang (Tofu);8,5;€						
+26b. Com Rang (Gebratenes Hühnchen);8,9;€						
+26c. Com Rang (Gebackenes Hühnchen);10,5;€						
+26d. Com Rang (Garnelen);13,5;€						
+26e. Com Rang (Rindfleisch);13,5;€						
+26f. Com Rang (Ente);13,9;€						
+27a. Spicy Curry (Tofu);10,5;€						
+27b. Spicy Curry (Gebratenes Hühnchen);10,5;€						
+27c. Spicy Curry (Gebackenes Hühnchen);11,9;€						
+27d. Spicy Curry (Rindfleisch);13,5;€						
+27e. Spicy Curry (Garnelen);13,5;€						
+27f. Spicy Curry (Ente);13,9;€						
+28a. Mango Fusion (Tofu);10,5;€						
+28b. Mango Fusion (Gebratenes Hühnchen);10,5;€						
+28c. Mango Fusion (Gebackenes Hühnchen);11,9;€						
+28d. Mango Fusion (Rindfleisch);13,5;€						
+28e. Mango Fusion (Garnelen);13,5;€						
+28f. Mango Fusion (Ente);13,9;€						
+29a. Erdnuss (Tofu);10,5;€						
+29b. Erdnuss (Gebratenes Hühnchen);10,5;€						
+29c. Erdnuss (Gebackenes Hühnchen);11,9;€						
+29d. Erdnuss (Rindfleisch);13,5;€						
+29e. Erdnuss (Garnelen);13,5;€						
+29f. Erdnuss (Ente);13,9;€						
+30a. Bonsai Gemüse (Tofu);10,5;€						
+30b. Bonsai Gemüse (Gebackenes Hühnchen);11,9;€						
+30c. Bonsai Gemüse (Rindfleisch);13,5;€						
+30d. Bonsai Gemüse (Garnelen);13,5;€						
+30e. Bonsai Gemüse (Ente);13,9;€						
+31a. Bonsai Rau Xao Toi Cay (Tofu);10,5;€						
+31b. Bonsai Rau Xao Toi Cay (Gebackenes Hühnchen);11,9;€						
+31c. Bonsai Rau Xao Toi Cay (Rindfleisch);13,5;€						
+31d. Bonsai Rau Xao Toi Cay (Garnelen);13,5;€						
+31e. Bonsai Rau Xao Toi Cay (Ente);13,9;€						
+32. Bo Luc Lac;21,9;€						
+33. Bonsai Maishühnchen;17,9;€						
+34. Bonsai Ente;21,9;€
+35. Frisches Lachssteak;18,9;€						
+36. Gegrillte King Garnelen;21,9;€						
+37. Rib - Eye – Steak;26,9;€						
+38. Kuh Auf Der Weide;27,9;€						
+39. Gegrillte Meeresfrüchte;28,9;€						
+40. Für 2 Personen;59,9;€						
+E1. Reis;2,9;€						
+E2. Nudeln;2,9;€						
+E3. Mango Soße;2,9;€						
+E4. Erdnuss Soße;2,9;€						
+E5. Curry Soße;2,9;€						
+E6. Hoisin Soße;2,9;€						
+E7. Limetten Dressing;2,9;€						
+E8. Süß Sauce Soße;2,9;€						
+E9. Soja Soße;2,9;€						
+E10. Dunkler Soße;2,9;€						
+E11. Pikanter Soße;2,9;€						
+E12. Sesam Soße;2,9;€						
+E13. Pommes Frites;2,9;€						
+E14. Hähnchen;4,9;€						
+E15. Ente;7,9;€						
+E16. Lachs;9,9;€						
+100. Sake ( 6Stk) – Lachs;12,5;€						
+101. Tekka (6Stk) – Thunsch;15,5;€						
+102. Mix (12Stk);20;€						
+103. Sake – Lachs;5,5;€						
+104. Tekka – Thunfisch;6,5;€						
+105. Ebi – Gekochte Garnelen;6;€						
+106. Unagi – Gegrillter Aal;7;€						
+107. Tai – Brasse;5,5;€						
+108. Surimi – Krebsfleischimitat;5,5;€						
+109. Tamago – Eieromelette;4;€						
+110. Avocado – Eieromelette;4;€						
+111. Sake – Lachs;4,5;€						
+112. Tekka – Thunfisch;5;€						
+113. Spicy Sake;5;€						
+114. Spicy Tekka;5,5;€						
+115. Sake Avo – Lachs & Avocado;5;€						
+116. Ebi – Panierte Garnelen;5;€						
+117. Unagi – Gegrillter Aal;5,5;€						
+118. Spicy Ebi;6;€						
+119. Ebi Avo – Garnelen & Avocado;5,5;€						
+120. Hühnchen Tempura;4;€						
+121. Surimi – Krebsfleischimitat & Avocado;4,5;€						
+122. Avocado;4;€						
+123. Kappa – Gurke;4;€						
+124. Shinko - Eingelegter Rettich;3,5;€						
+125. Tamago – Omelette;3,5;€						
+126. Sake Avocado;11;€						
+127. Spicy Sake (Scharf);11,5;€						
+128. Tekka;12;€						
+129. Spicy Tekka;12,5;€						
+130. Ebi;12;€						
+131. Spicy Ebi;12,5;€						
+132. Unagi;12;€						
+133. California;10,5;€						
+134. Lachs;12;€						
+135. Thunfisch;14;€						
+136. Hühnchen;9,9;€						
+137. Vegie;8,9;€						
+138. MangoTango;9,5;€						
+139. Surimi;8,9;€						
+140. Rainbow Roll;17;€						
+141. Mango – Ebi – Salee;17;€						
+142. Tricolar Roll;17;€						
+143. Tata Roll;18;€						
+144. City Roll;20;€						
+145. Bonsai Suprise Roll;24,5;€						
+146. Sake Salmon Roll;10,9;€						
+147. Tekka Roll;13,9;€						
+148. Ebi Tempura Roll;14;€						
+149. Mix Roll;15,9;€						
+150. Chicken Roll;10,9;€						
+151. Vegi Roll;10,5;€						
+M1. Sake Menü;20;€						
+M2. Sake Tempura;20;€						
+M3. Tekka Menü;21;€						
+M4. Tuna Tempura;21;€						
+M5. Ebi Menü;22;€						
+M6. Ebi Tempura;22;€						
+M7. Veggie Menü;10;€						
+M8. Veggie Tempura;14;€						
+M9. Crispy Rocket;30;€						
+M10. Menü für 2 P.;45;€						
+M11. Menü für 4 P.;80;€						
+M12. Bonsai Familie;130;€						
+200. Mochi Eis;6;€						
+201. Sesambällchen;5,1;€						
+202. Mango Eis;4,9;€						
+203. Matcha Eis;4,9;€						
+204. Vanille Eis;4,9;€						
+205. Schokoladen Eis;4,9;€						
+206. Pana Cotta;5,9;€						
+207. Dessert für 2 P.;16,9;€						
+					
